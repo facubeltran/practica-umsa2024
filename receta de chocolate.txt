@@ -1,2 +1,6 @@
 Paso 1: Cosecha del cacao
 Paso 2: Quebrado de cacao
+
+Paso 3: Fermentación
+Paso 4: Secado
+Paso 5: Selección de los granos
